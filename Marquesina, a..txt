@@ -1,0 +1,9 @@
+<HTML>
+
+<HEAD>
+<TITLE>SANRIO</TITLE>
+</HEAD>
+
+<body background=Sanriobc.jpg>
+<FONT FACE="Arial Black">
+<font size=6><font color="FFB2CC"><center><b><marquee behavior="ALTERNATE">"My sweet melody"</marquee>

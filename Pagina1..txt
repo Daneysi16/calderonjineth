@@ -1,0 +1,44 @@
+<HTML>
+
+<HEAD>
+<TITLE>SANRIO</TITLE>
+</HEAD>
+
+<body background=Sanriobc.jpg>
+
+<FONT FACE="Cooper Black">
+<font size=10><font color="7FA9C4"><center><b><a id="SANRIO">SANRIO</a></b></center></font></FONT FACE>
+</FONT FACE>
+<p><br>
+<div align="center"><img src="Sanrio1.jpg" width="350" height="250"/></div>
+
+<p align=justify><FONT SIZE="4">Sanrio Co., Ltd. es una empresa japonesa que crea una gama de productos (sobre todo) de diseño que ofrece la serie de personajes, licencias y vende diversos productos de marca con estos personajes. Estos productos incluyen artículos de papelería, útiles escolares, regalos y accesorios. El personaje más conocido es Hello Kitty, una gata blanca antropomórfica con un lazo rojo, una de las más exitosas marcas en el mundo, además de embajadora infantil de UNICEF.Fue iniciado por Shintaro Tsuji como Yamanashi Silk Company en 1960, por medio de 1 millón de yenes de capital. La compañía produce una línea de personajes en torno a la mercancía de regalos de ocasiones. No fue hasta 1973 cuando la empresa fue creada oficialmente con el nombre de "Sanrio". El nombre “Sanrio” se derivó de las palabras “San” y “Rio” del Español. “San” puede ser encontrado en varios nombres de ciudades, como San Francisco y San Diego. “Rio” puede ser también encontrado en nombres de lugares como Río de Janeiro y Río Grande.Además de la venta de sus famosos personajes, SANRIO también participa en la producción y la edición de películas. 
+<p <p align=justify>
+También participan en la industria de comida rápida, con una franquicia de Kentucky Fried Chicken (Pollo frito de Kentucky) en Saitama. Ellos también poseen los derechos de Peanuts en Japón. SANRIO también tiene una empresa en la rama animatrónica llamada Kokoro Company, Ltd ("Kokoro" es la palabra japonesa para "corazón"), mejor conocido por el androide Actroid.SANRIO es el mayor fabricante de tarjetas de felicitación en Japón. En el año 2002, se inició una empresa conjunta con The Walt Disney Company para sus tarjetas de felicitación.
+
+Hello Kitty fue agregada como uno de los primeros personajes de Sanrio en 1974 y lanzada en 1975. El popular felino ha tenido dos picos y caídas en las ventas a través de los años, pero siempre ha sido el mayor contribuyente a las ventas de SANRIO. Otros personajes populares en particular a través de los años han sido los Little Twin Stars (creado por el Sr Tsuji a sí mismo), My Melody, Keroppi, Tuxedo Sam, Bad Badtz-Maru, Tenorikuma, Usahana, Pochacco, Chococat, y Cinnamoroll. 
+
+
+<hr size="15" color="#cebfff"></hr>
+<FONT FACE="Cooper black">
+<font color="F974A1">
+<ol><b>
+<H3>
+<li><a href="Pagina2.html">Personajes</a></li>
+<p>
+<li><a href="Pagina2.html">Diseño de personajes</a></li>
+<p>
+<li><a href="Pagina3.html">Series</li>
+<p>
+<li><a href="Pagina3.html">Videojuegos</li>
+<p>
+<li><a href="Pagina4.html">Productos</li>
+<p>
+<li><a href="Pagina4.html">Difusión</li>
+</H3>
+</b>
+</ol>
+</FONT FACE>
+
+</BODY>
+</HTML>

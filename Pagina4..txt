@@ -1,0 +1,84 @@
+<HTML>
+
+<HEAD>
+<TITLE>SANRIO</TITLE>
+</HEAD>
+
+<body background=Sanriobc.jpg>
+
+<H3>
+<a name="inicio"></a>
+<ol>
+<FONT FACE="Cooper Black">
+<font color="F974A1">
+<li value="5"><a href="#Productos">Productos</li>
+<p>
+<li><a href="#Difusión">Difusión</a></li>
+<p>
+</FONT>
+</H3>
+</ol>
+<div align="center"><img src="Sanrio8.jpg" width="350" height="250"/></div>
+<hr size="15" color="#bfc6f2"></hr>
+<p>
+<ol>
+<FONT FACE="Cambria"><FONT COLOR="black"><FONT SIZE="5">
+<p><br><b><a name="Productos"></a><li value="5">Productos:</b>
+</FONT>
+<p align=justify><img src=Sanrio9.jpg widht="300" height="200" align=right><FONT SIZE="4">Entre los productos de Hello Kitty pueden encontrarse desde material escolar hasta accesorios de moda o joyería.
+
+Hello Kitty tiene su propio álbum de música, Hello World, con canciones inspiradas por Hello Kitty e interpretadas por artistas como Keke Palmer o Cori Yarckin.
+
+En 2007 Sanrio adaptó la imagen de Hello Kitty para atraer al público masculino. En la cabeza de la gata aparecía escrito 'Hello Kitty' manteniendo el perfil del felino y variando el color de su lazo de rosa a azul.
+
+
+Originalmente dirigido al mercado femenino pre-adolescente, el rango de productos se ha expandido a muñecas, pegatinas, tarjetas, ropa, accesorios, artículos escolares y papelería, tostadoras, televisores, otros electrodomésticos, masajeadores y equipos informáticos. Estos productos van desde objetos de mercado de masas para los productos de consumo de alta gama y coleccionables raros.
+
+A partir de 2009, Bank of America comenzó a ofrecer Hello Kitty con temas de cuentas corrientes; el titular de la cuenta puede recibir cheques y una tarjeta de débito Visa con la cara de Kitty en él.Las tarjetas de débito MasterCard han ofrecido Hello Kitty como un diseño desde 2004.
+
+Sanrio y Fender han comercializado una serie de guitarras de Hello Kitty (las Hello Kitty Stratocaster), e incluso un avión reactor (el Hello Kitty Jet). A este último también se le llamó, en mayo de 2008, Embajador Japonés, representando al país en China y Hong Kong.
+
+En la primavera del año 2005, Simmons Jewelry Co. y Sanrio anunció una asociación de marca joyas licencia. "Kimora Lee Simmons Hello Kitty" fue lanzado exclusivamente en Neiman Marcus precios que van desde $ 300 a $ 5000 diseñado por Kimora Lee Simmons y lanzó la colección inicial. La joyería es todo hecho a mano, que consiste en diamantes, piedras preciosas, piedras semi-preciosas, oro de 18 quilates, plata de ley, esmalte y cerámica.
+
+
+<p>
+</br><br><p align=right><a href="#inicio"><button>Inicio</button></a></align>
+
+
+
+<hr size="15" color="#c7acd6"></hr>
+<p>
+<FONT FACE="Cambria"><FONT COLOR="black"><FONT SIZE="5">
+<p><br><b><a name="Difusión"></a><li>Difusión:</b>
+</FONT>
+<CENTER>
+<FONT SIZE="5">
+<table border=2>
+<caption>¿QUIÉNES DIFUNDIERON ESTA MARCA?</caption>
+  <tr>
+    <td rowspan="3"> <p> <img src="Sanrio10.jpg" align="right" width="300" height="205"> </p> </td> </align>
+    <td> Mariah Carey adoptó a Hello Kitty como una tendencia de moda en 1990</td>
+    <td>A día de hoy personajes como Paris Hilton o Steven Tyler perpetúan esta tendencia.</td>
+     <td rowspan="3">Actualmente, España es el tercer país europeo en volumen de ventas de productos de Hello Kitty</td>
+    <td>Oysho, H&M o Victoria Couture reproducen su imagen con el consiguiente permiso</td>
+  </tr>
+  <tr>
+    <td rowspan="2">En 2004 UNICEF premió a Hello Kitty con el título exclusivo de UNICEF Amigo especial de los niños.</td>
+    <td>Desde 2004, Hello Kitty aparece en una tarjeta de débito de MasterCard.</td>
+    <td rowspan="3">En 2008, Japón nombró a Hello Kitty embajadora japonesa de turismo en China y Hong Kong.</td>
+  </tr>
+  <tr>
+    <td>Vogue Japón le dedicó un editorial de moda en el que la gatita hacía de modelo y lucía diseños exclusivos de Dior para la temporada otoño-invierno de ese año.</td>
+  </tr>
+ <tr>
+<td>En el capítulo de Halloween de la serie de dibujos Homestar Runner el rey de la ciudad se disfraza de Hello Kitty.</td>
+<td> se hace mención a la pequeña felina en series como Grey's Anatomy, Los Simpson o The Office.</td>
+<td>Según Sanrio, en 1999 Hello Kitty apareció en 12 000 productos anuales diferentes</td>
+<td rowspan="2"> <img src="Sanrio11.jpg" align="right" width="260" height="165"> </td>
+</table>
+<p>
+</br><br><p align=right><a href="#inicio"><button>Inicio</button></a></align>
+
+
+</BODY>
+</HTML>
